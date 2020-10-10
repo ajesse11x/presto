@@ -61,7 +61,7 @@
         <dep.parquet.version>1.10.0</dep.parquet.version>
         <dep.nexus-staging-plugin.version>1.6.8</dep.nexus-staging-plugin.version>
         <dep.asm.version>6.2.1</dep.asm.version>
-        <dep.gcs.version>1.9.17</dep.gcs.version>
+        <dep.gcs.version>hadoop2-2.0.0</dep.gcs.version>
 
         <!--
           America/Bahia_Banderas has:
