@@ -45,7 +45,7 @@
         <air.maven.version>3.3.9</air.maven.version>
 
         <dep.antlr.version>4.7.1</dep.antlr.version>
-        <dep.airlift.version>0.178</dep.airlift.version>
+        <dep.airlift.version>0.187</dep.airlift.version>
         <dep.packaging.version>${dep.airlift.version}</dep.packaging.version>
         <dep.slice.version>0.36</dep.slice.version>
         <dep.testing-mysql-server-5.version>0.4</dep.testing-mysql-server-5.version>
@@ -54,8 +54,8 @@
         <dep.jdbi3.version>3.4.0</dep.jdbi3.version>
         <dep.drift.version>1.19</dep.drift.version>
         <dep.joda.version>2.10</dep.joda.version>
-        <dep.tempto.version>1.50</dep.tempto.version>
-        <dep.testng.version>6.10</dep.testng.version>
+        <dep.tempto.version>1.51</dep.tempto.version>
+        <dep.testng.version>7.3.0</dep.testng.version>
         <dep.assertj-core.version>3.8.0</dep.assertj-core.version>
         <dep.logback.version>1.2.3</dep.logback.version>
         <dep.parquet.version>1.10.0</dep.parquet.version>
@@ -767,7 +767,7 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.48</version>
+                <version>8.0.16</version>
             </dependency>
 
             <dependency>
@@ -1221,7 +1221,7 @@
             <dependency>
                 <groupId>com.facebook.presto.cassandra</groupId>
                 <artifactId>cassandra-driver</artifactId>
-                <version>3.1.4-1</version>
+                <version>3.6.0-1</version>
             </dependency>
 
             <!-- force newer version to be used for dependencies -->
