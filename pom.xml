@@ -45,7 +45,7 @@
         <air.maven.version>3.3.9</air.maven.version>
 
         <dep.antlr.version>4.7.1</dep.antlr.version>
-        <dep.airlift.version>0.178</dep.airlift.version>
+        <dep.airlift.version>233</dep.airlift.version>
         <dep.packaging.version>${dep.airlift.version}</dep.packaging.version>
         <dep.slice.version>0.36</dep.slice.version>
         <dep.testing-mysql-server-5.version>0.4</dep.testing-mysql-server-5.version>
@@ -1221,7 +1221,7 @@
             <dependency>
                 <groupId>com.facebook.presto.cassandra</groupId>
                 <artifactId>cassandra-driver</artifactId>
-                <version>3.1.4-1</version>
+                <version>3.6.0-1</version>
             </dependency>
 
             <!-- force newer version to be used for dependencies -->
