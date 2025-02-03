@@ -491,7 +491,7 @@
             <dependency>
                 <groupId>com.facebook.hive</groupId>
                 <artifactId>hive-dwrf</artifactId>
-                <version>0.8.2</version>
+                <version>0.8.7</version>
             </dependency>
 
             <dependency>
